@@ -1,0 +1,72 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="36" x2="1218" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A26"/>
+      <stop offset="0.55" stop-color="#0B2333"/>
+      <stop offset="1" stop-color="#13354A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#102738"/>
+      <stop offset="1" stop-color="#17384E"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="360" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1138" cy="68" r="86" fill="#14B8A6" opacity="0.12"/>
+  <circle cx="1208" cy="256" r="118" fill="#F59E0B" opacity="0.09"/>
+  <circle cx="934" cy="304" r="54" fill="#38BDF8" opacity="0.11"/>
+
+  <rect x="70" y="62" width="118" height="32" rx="16" fill="#0F2D3E"/>
+  <text x="91" y="83" fill="#7DD3FC" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="15" font-weight="700">QA ENGINEER</text>
+
+  <text x="70" y="150" fill="white" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="52" font-weight="700">Usama Afzal</text>
+  <text x="70" y="188" fill="#A5F3FC" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="22" font-weight="500">Test Automation • API QA • Mobile &amp; Web Quality</text>
+
+  <text x="70" y="231" fill="#C6D5E3" font-family="Manrope, Segoe UI, sans-serif" font-size="18" font-weight="500">Building reliable quality systems with Appium, Cypress,</text>
+  <text x="70" y="258" fill="#C6D5E3" font-family="Manrope, Segoe UI, sans-serif" font-size="18" font-weight="500">GitHub Actions, Postman, and practical Agile testing workflows.</text>
+
+  <rect x="70" y="290" width="116" height="34" rx="17" fill="#0E7490"/>
+  <text x="92" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">Appium</text>
+
+  <rect x="196" y="290" width="118" height="34" rx="17" fill="#14532D"/>
+  <text x="221" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">Cypress</text>
+
+  <rect x="324" y="290" width="146" height="34" rx="17" fill="#7C2D12"/>
+  <text x="346" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">GitHub Actions</text>
+
+  <rect x="480" y="290" width="124" height="34" rx="17" fill="#0F766E"/>
+  <text x="506" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">Postman</text>
+
+  <g filter="url(#shadow)">
+    <rect x="810" y="58" width="396" height="244" rx="26" fill="url(#panel)" stroke="#2DD4BF" stroke-opacity="0.18"/>
+    <rect x="840" y="86" width="190" height="144" rx="18" fill="#0B1E2C" stroke="#1E3A4C"/>
+    <rect x="862" y="108" width="146" height="12" rx="6" fill="#18384D"/>
+    <rect x="862" y="132" width="118" height="12" rx="6" fill="#18384D"/>
+    <rect x="862" y="160" width="90" height="48" rx="14" fill="#0F766E" fill-opacity="0.18" stroke="#2DD4BF" stroke-opacity="0.55"/>
+    <path d="M888 184L901 197L927 170" stroke="#2DD4BF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="1054" y="94" width="110" height="196" rx="22" fill="#0B1E2C" stroke="#2C4A5B"/>
+    <rect x="1069" y="118" width="80" height="12" rx="6" fill="#1C394D"/>
+    <rect x="1069" y="142" width="58" height="12" rx="6" fill="#1C394D"/>
+    <rect x="1069" y="171" width="79" height="66" rx="18" fill="#1D4ED8" fill-opacity="0.18" stroke="#60A5FA" stroke-opacity="0.45"/>
+    <circle cx="1109" cy="204" r="18" fill="#111827" stroke="#93C5FD" stroke-opacity="0.55"/>
+    <path d="M1101 204L1107 210L1118 197" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1090" y="256" width="37" height="6" rx="3" fill="#3B5565"/>
+
+    <path d="M956 208C985 208 998 225 998 243C998 261 1012 276 1038 276" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 8"/>
+    <circle cx="956" cy="208" r="6" fill="#2DD4BF"/>
+    <circle cx="1038" cy="276" r="6" fill="#F59E0B"/>
+  </g>
+</svg>
