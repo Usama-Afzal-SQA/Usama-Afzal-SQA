@@ -84,8 +84,30 @@ I am especially strong where QA overlaps with engineering. I like building autom
 
 ## Experience Snapshot
 
-- <img src="./assets/goally-logo.png" alt="Goally logo" height="22" /> **Goally** — SQA Engineer since November 2022, working across native app, hybrid app, web, and device quality workflows
-- <img src="./assets/lums-logo.png" alt="LUMS logo" height="22" /> **LUMS, Lahore** — Research Assistant Software Engineer Intern with hands-on API integration, auth flows, and frontend support
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/goally-logo.png" alt="Goally logo" height="42" />
+      <br />
+      <strong>Goally</strong>
+      <br />
+      <sub>SQA Engineer • November 2022 to Present</sub>
+      <br />
+      <br />
+      Supporting native app, hybrid app, web, and device quality workflows across automation, validation, debugging, and release support.
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/lums-logo.png" alt="LUMS logo" height="42" />
+      <br />
+      <strong>LUMS, Lahore</strong>
+      <br />
+      <sub>Research Assistant Software Engineer Intern</sub>
+      <br />
+      <br />
+      Worked on API integration, auth flows, and frontend support in a hands-on engineering and research environment.
+    </td>
+  </tr>
+</table>
 
 ## Certifications and Learning
 
