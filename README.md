@@ -64,20 +64,20 @@ I am especially strong where QA overlaps with engineering. I like building autom
 
 ## Featured Work
 
-- **StandUpBot**  
-  Built a Slack-based standup bot powered by GitHub Actions, scheduled workflows, Slack APIs, and asynchronous response collection.
+- **Daily standup automation for async teams**  
+  A GitHub Actions and Slack workflow that collects, organizes, and posts recurring standups for distributed teams.
 
-- **HybridApp_Automation_Appium**  
-  Created a WebdriverIO and Appium automation setup for hybrid mobile testing, including login and in-app navigation coverage.
+- **Mobile app regression testing with Appium and WebdriverIO**  
+  An Appium-based automation suite focused on mobile login flows, in-app navigation, and repeatable regression coverage.
 
-- **Checkout_Automation_Cypress**  
-  Structured a Cypress test project for browser-based flow automation and checkout-oriented experimentation.
+- **Web checkout and browser flow testing with Cypress**  
+  A Cypress automation project built to validate browser journeys and checkout-critical flows with stable end-to-end coverage.
 
-- **Appium MCP Server for Android Automation**  
-  Preparing a repository that captures my work on enabling Appium MCP-based Android automation workflows and QA tooling support.
+- **Android test automation through an MCP server**  
+  An Android automation project where test logic is orchestrated through MCP-based workflows for repeatable mobile testing.
 
-- **Godot Game Prototype Built With AI Assistance**  
-  Preparing a repo that reflects my experimentation with Godot, game logic, and AI-assisted development beyond traditional QA work.
+- **Toybox-style kart racer built in Godot**  
+  A Godot arcade racing prototype with character selection, AI opponents, item pickups, garage flow, and touch-friendly controls.
 
 - **Professional work highlights**  
   Contributed across Goally automation suites, ClickUp process improvements, firmware and device testing, backend payload support, Sentry-led debugging, and bug-fix PR delivery.
