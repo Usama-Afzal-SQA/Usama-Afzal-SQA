@@ -118,6 +118,16 @@ I am especially strong where QA overlaps with engineering. I like building autom
 - Best fit for SQA, QA Automation, Mobile QA, or Product Quality roles with real ownership
 - Comfortable moving between manual testing, automation, device validation, bug investigation, and AI-assisted implementation work
 
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## Let’s Connect
 
 - LinkedIn: [linkedin.com/in/usama-afzal-sqa](https://www.linkedin.com/in/usama-afzal-sqa/)
