@@ -87,24 +87,52 @@ I am especially strong where QA overlaps with engineering. I like building autom
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/goally-logo.png" alt="Goally logo" height="42" />
-      <br />
-      <strong>Goally</strong>
-      <br />
-      <sub>SQA Engineer • November 2022 to Present</sub>
-      <br />
-      <br />
-      Supporting native app, hybrid app, web, and device quality workflows across automation, validation, debugging, and release support.
+      <table>
+        <tr>
+          <td align="center" height="56">
+            <img src="./assets/goally-logo.png" alt="Goally logo" height="40" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <strong>Goally</strong>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <sub>SQA Engineer • November 2022 to Present</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            Supporting native app, hybrid app, web, and device quality workflows across automation, validation, debugging, and release support.
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/lums-logo.png" alt="LUMS logo" height="42" />
-      <br />
-      <strong>LUMS, Lahore</strong>
-      <br />
-      <sub>Research Assistant Software Engineer Intern</sub>
-      <br />
-      <br />
-      Worked on API integration, auth flows, and frontend support in a hands-on engineering and research environment.
+      <table>
+        <tr>
+          <td align="center" height="56">
+            <img src="./assets/lums-logo.png" alt="LUMS logo" height="40" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <strong>LUMS, Lahore</strong>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <sub>Research Assistant Software Engineer Intern</sub>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            Worked on API integration, auth flows, and frontend support in a hands-on engineering and research environment.
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
