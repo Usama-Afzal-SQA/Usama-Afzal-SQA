@@ -84,8 +84,8 @@ I am especially strong where QA overlaps with engineering. I like building autom
 
 ## Experience Snapshot
 
-- **Goally** — SQA Engineer since November 2022, working across native app, hybrid app, web, and device quality workflows
-- **BIRL Lab, Lahore** — Research Assistant Software Engineer Intern with hands-on API integration, auth flows, and frontend support
+- <img src="./assets/goally-logo.png" alt="Goally logo" height="22" /> **Goally** — SQA Engineer since November 2022, working across native app, hybrid app, web, and device quality workflows
+- <img src="./assets/lums-logo.png" alt="LUMS logo" height="22" /> **LUMS, Lahore** — Research Assistant Software Engineer Intern with hands-on API integration, auth flows, and frontend support
 
 ## Certifications and Learning
 
