@@ -3,90 +3,113 @@
 </p>
 
 <h1 align="center">Usama Afzal</h1>
-<h3 align="center">SQA Engineer | Test Automation, Mobile QA, and AI-Assisted Engineering</h3>
+<h3 align="center">SQA Engineer | Quality Systems, Test Automation, and AI-Assisted Delivery</h3>
 
 <p align="center">
+  <a href="https://usama-qa-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-QA%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/Usama-Afzal-SQA">
-    <img src="https://img.shields.io/badge/GitHub-Usama--Afzal--SQA-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Usama--Afzal--SQA-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/usama-afzal-sqa/">
     <img src="https://img.shields.io/badge/LinkedIn-Usama%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://linktr.ee/Usama_Afzal_SQA">
-    <img src="https://img.shields.io/badge/Linktree-Profile-22c55e?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-Usama__Afzal__SQA-22c55e?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
   <a href="mailto:usama5343@gmail.com">
     <img src="https://img.shields.io/badge/Email-usama5343%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-## Hello, folks
+## Summary
 
-I am Usama Afzal, an SQA Engineer with 3+ years of hands-on experience across web, hybrid, native Android, and connected device quality. I currently work at Goally, where I support product quality across app flows, device validation, firmware testing, backend-related fixes, release readiness, and day-to-day engineering collaboration.
+I am Usama Afzal, an SQA Engineer with 3+ years of hands-on experience across web, native, hybrid, and device software testing. My work focuses on building reliable quality systems with structured release validation, AI-assisted automation, deep issue investigation, and practical engineering support when teams need momentum.
 
-I am especially strong where QA overlaps with engineering. I like building automation, investigating bugs deeply, tracing device and app behavior, and using AI tools to move faster on test coverage, backend payload work, Sentry-driven debugging, and bug-fix pull requests.
+I work across Appium, WebdriverIO, Cypress, Postman API testing, firmware flashing, ROM and GMS validation, syslog tracing, Sentry-led debugging, payload checks, and bug-fix pull request collaboration.
 
 ## What I Bring
 
-- End-to-end QA for web, mobile, hybrid, and device-connected products
-- Test automation with Appium, WebdriverIO, Cypress, JavaScript, and Java
-- Firmware flashing, ROM testing, GMS suite testing, and Android device syslog tracing
-- API, auth, payload, and backend-adjacent debugging with practical AI support
-- Sentry-based issue investigation, release support, regression planning, and fast bug triage
-- AI-assisted internal tooling, bug-fix PRs, and team support across QA and engineering workflows
+- End-to-end QA coverage for web, mobile, hybrid, and device-connected products
+- AI-assisted automation with Appium, WebdriverIO, Cypress, JavaScript, and practical workflow tooling
+- API testing in Postman, auth flow validation, payload checks, and backend-adjacent debugging
+- Firmware flashing, ROM testing, GMS suite validation, and Android device syslog tracing
+- Sentry-based issue investigation, regression planning, release support, and fast bug triage
+- Bug-fix PR collaboration, internal tooling support, and day-to-day partnership with engineering teams
 
 ## Toolbox
 
-![Appium](https://img.shields.io/badge/Appium-47206d?style=flat-square&logo=appium&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-ea5906?style=flat-square&logo=webdriverio&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-111827?style=flat-square&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=flat-square&logo=javascript&logoColor=111827)
-![Postman](https://img.shields.io/badge/Postman-f97316?style=flat-square&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2563eb?style=flat-square&logo=githubactions&logoColor=white)
-![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-c026d3?style=flat-square)
-![JMeter](https://img.shields.io/badge/JMeter-dc2626?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-111827?style=flat-square&logo=clickup&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-f97316?style=flat-square&logo=gitlab&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-16a34a?style=flat-square&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-14532d?style=flat-square&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="./assets/toolbox-marquee.svg" alt="Animated QA toolbox marquee" width="100%" />
+</p>
 
-## Current Scope At Goally
+## Current Scope at Goally
 
-- Own and support quality efforts across native app, hybrid app, web, and device-related workflows
-- Build and maintain mobile and browser automation using Appium, WebdriverIO, Cypress, and Sauce Labs
-- Work on firmware flashing, ROM validation, GMS testing, and device syslog tracing for Goally devices
-- Use Codex and AI workflows to send bug-fix PRs, assist with backend payload tasks, and help unblock product teams faster
-- Investigate issues through logs, Sentry, exploratory testing, and targeted validation across releases
-- Contribute to process improvements in planning, test coverage, and Agile execution
+- Support product quality across native app, hybrid app, web, and device software workflows
+- Build and maintain automation coverage with Appium, WebdriverIO, Cypress, and AI-assisted test workflows
+- Run firmware flashing, ROM validation, GMS testing, syslog tracing, Postman API checks, and release support
+- Investigate issues through logs, Sentry, exploratory testing, and targeted bug-fix PR collaboration
 
-## Featured Work
+## Repositories
 
-- **Daily standup automation for async teams**  
-  A GitHub Actions and Slack workflow that collects, organizes, and posts recurring standups for distributed teams.
+### Test Automation
 
-- **Mobile app regression testing with Appium and WebdriverIO**  
-  An Appium-based automation suite focused on mobile login flows, in-app navigation, and repeatable regression coverage.
+- **[iOS app test automation with Appium](https://github.com/Usama-Afzal-SQA/iOSApp_TestAutomation_Appium)**  
+  Appium-based iOS automation for repeatable mobile flows, UI validation, and practical regression coverage.
 
-- **Web checkout and browser flow testing with Cypress**  
-  A Cypress automation project built to validate browser journeys and checkout-critical flows with stable end-to-end coverage.
+- **[Android app automation with Appium Inspector](https://github.com/Usama-Afzal-SQA/AndroidApp_Automation_Appium_Inspector)**  
+  Android automation work built around Appium Inspector for stable selector strategy, screen tracing, and reliable device checks.
 
-- **Android test automation through an MCP server**  
-  An Android automation project where test logic is orchestrated through MCP-based workflows for repeatable mobile testing.
+- **[Android app automation through an MCP server](https://github.com/Usama-Afzal-SQA/AndroidApp-TestAutomation-MCPserver)**  
+  Mobile testing orchestrated through MCP workflows to make device automation more reusable, observable, and team-friendly.
 
-- **Toybox-style kart racer built in Godot**  
-  A Godot arcade racing prototype with character selection, AI opponents, item pickups, garage flow, and touch-friendly controls.
+- **[Web app flow testing with Cypress](https://github.com/Usama-Afzal-SQA/WebApp_TestAutomation_Cypress)**  
+  Cypress automation for browser journeys, checkout validation, and release-critical web regressions.
+
+### Other Repositories
+
+- **[Daily standup automation for async teams](https://github.com/Usama-Afzal-SQA/DailyStandUpBot)**  
+  A lightweight workflow automation repo that uses GitHub Actions to support daily standup reporting and keep recurring team updates consistent with multiple scheduled cron jobs.
+
+- **[Toybox Rally in Godot](https://github.com/Usama-Afzal-SQA/Toybox-Rally)**  
+  A Godot arcade racing prototype that uses sprite sheets for characters, kart selection, AI opponents, item systems, garage flow, and a playable structure built through AI-assisted experimentation.
 
 - **Professional work highlights**  
-  Contributed across Goally automation suites, ClickUp process improvements, firmware and device testing, backend payload support, Sentry-led debugging, and bug-fix PR delivery.
+  Goally delivery across device software testing, Native / Hybrid App / Web QA, Test Automation, firmware validation, backend payload support, Sentry-led debugging, and bug-fix PR delivery.
 
 ## Experience Snapshot
 
-<p align="center">
-  <img src="./assets/experience-snapshot.svg" alt="Experience snapshot with Goally and LUMS in a two-column layout" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/goally-logo.png" alt="Goally logo" height="54" />
+      <br />
+      <strong>Goally</strong> <sub>Denver, CO, USA</sub>
+      <br />
+      <em>SQA Engineer</em>
+      <br />
+      <br />
+      Device software testing
+      <br />
+      Native / Hybrid App / Web QA
+      <br />
+      Test Automation
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/lums-logo.png" alt="LUMS logo" height="54" />
+      <br />
+      <strong>LUMS</strong> <sub>Lahore, Pakistan</sub>
+      <br />
+      <em>Software Engineer Intern</em>
+      <br />
+      <br />
+      API integration, auth flows, and frontend support
+      <br />
+      in a hands-on engineering environment.
+    </td>
+  </tr>
+</table>
 
 ## Certifications and Learning
 
@@ -97,19 +120,32 @@ I am especially strong where QA overlaps with engineering. I like building autom
 - HSK 1 and HSK 2
 - Mandarin learning track
 
-## Contribution Activity
+## QA Activity Trail
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
+    <img alt="Custom GitHub activity snake" src="./github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
 ## Let’s Connect
 
-- LinkedIn: [linkedin.com/in/usama-afzal-sqa](https://www.linkedin.com/in/usama-afzal-sqa/)
-- Linktree: [linktr.ee/Usama_Afzal_SQA](https://linktr.ee/Usama_Afzal_SQA)
-- GitHub: [github.com/Usama-Afzal-SQA](https://github.com/Usama-Afzal-SQA)
-- Email: [usama5343@gmail.com](mailto:usama5343@gmail.com)
+<p align="center">
+  <a href="https://usama-qa-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-QA%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Usama-Afzal-SQA">
+    <img src="https://img.shields.io/badge/GitHub-Usama--Afzal--SQA-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/usama-afzal-sqa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/Usama_Afzal_SQA">
+    <img src="https://img.shields.io/badge/Linktree-Usama__Afzal__SQA-22c55e?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="mailto:usama5343@gmail.com">
+    <img src="https://img.shields.io/badge/Email-usama5343%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>

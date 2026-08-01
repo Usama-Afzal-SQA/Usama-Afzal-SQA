@@ -1,0 +1,79 @@
+<svg width="1200" height="248" viewBox="0 0 1200 248" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trail" x1="44" y1="44" x2="1156" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <rect x="4" y="4" width="24" height="24" rx="6" fill="#102235" stroke="#1E3A4F"/>
+    </pattern>
+    <clipPath id="board">
+      <rect x="12" y="12" width="1176" height="224" rx="28"/>
+    </clipPath>
+    <path id="snake-path" d="M44 44H1156V76H44V108H1156V140H44V172H1156V204H44"/>
+  </defs>
+
+  <rect x="12" y="12" width="1176" height="224" rx="28" fill="#0B1220" stroke="#1E293B"/>
+
+  <g clip-path="url(#board)">
+    <rect x="12" y="12" width="1176" height="224" fill="url(#grid)"/>
+
+    <g fill="#0F2D3E" stroke="#22D3EE" stroke-opacity="0.58">
+      <rect x="100" y="32" width="24" height="24" rx="6"/>
+      <rect x="292" y="32" width="24" height="24" rx="6"/>
+      <rect x="484" y="32" width="24" height="24" rx="6"/>
+      <rect x="676" y="32" width="24" height="24" rx="6"/>
+      <rect x="868" y="32" width="24" height="24" rx="6"/>
+      <rect x="1060" y="32" width="24" height="24" rx="6"/>
+      <rect x="228" y="64" width="24" height="24" rx="6"/>
+      <rect x="420" y="64" width="24" height="24" rx="6"/>
+      <rect x="612" y="64" width="24" height="24" rx="6"/>
+      <rect x="804" y="64" width="24" height="24" rx="6"/>
+      <rect x="996" y="64" width="24" height="24" rx="6"/>
+      <rect x="132" y="96" width="24" height="24" rx="6"/>
+      <rect x="356" y="96" width="24" height="24" rx="6"/>
+      <rect x="580" y="96" width="24" height="24" rx="6"/>
+      <rect x="772" y="96" width="24" height="24" rx="6"/>
+      <rect x="1028" y="96" width="24" height="24" rx="6"/>
+      <rect x="260" y="128" width="24" height="24" rx="6"/>
+      <rect x="452" y="128" width="24" height="24" rx="6"/>
+      <rect x="708" y="128" width="24" height="24" rx="6"/>
+      <rect x="932" y="128" width="24" height="24" rx="6"/>
+      <rect x="164" y="160" width="24" height="24" rx="6"/>
+      <rect x="388" y="160" width="24" height="24" rx="6"/>
+      <rect x="644" y="160" width="24" height="24" rx="6"/>
+      <rect x="836" y="160" width="24" height="24" rx="6"/>
+      <rect x="1092" y="160" width="24" height="24" rx="6"/>
+      <rect x="324" y="192" width="24" height="24" rx="6"/>
+      <rect x="548" y="192" width="24" height="24" rx="6"/>
+      <rect x="740" y="192" width="24" height="24" rx="6"/>
+      <rect x="964" y="192" width="24" height="24" rx="6"/>
+    </g>
+
+    <path d="M44 44H1156V76H44V108H1156V140H44V172H1156V204H44" stroke="url(#trail)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.2"/>
+
+    <g fill="#F59E0B">
+      <circle cx="108" cy="44" r="5"/><circle cx="204" cy="44" r="5"/><circle cx="332" cy="44" r="5"/><circle cx="460" cy="44" r="5"/><circle cx="588" cy="44" r="5"/><circle cx="716" cy="44" r="5"/><circle cx="844" cy="44" r="5"/><circle cx="972" cy="44" r="5"/><circle cx="1100" cy="44" r="5"/>
+      <circle cx="1124" cy="76" r="5"/><circle cx="996" cy="76" r="5"/><circle cx="868" cy="76" r="5"/><circle cx="740" cy="76" r="5"/><circle cx="612" cy="76" r="5"/><circle cx="484" cy="76" r="5"/><circle cx="356" cy="76" r="5"/><circle cx="228" cy="76" r="5"/><circle cx="100" cy="76" r="5"/>
+      <circle cx="76" cy="108" r="5"/><circle cx="204" cy="108" r="5"/><circle cx="332" cy="108" r="5"/><circle cx="460" cy="108" r="5"/><circle cx="588" cy="108" r="5"/><circle cx="716" cy="108" r="5"/><circle cx="844" cy="108" r="5"/><circle cx="972" cy="108" r="5"/><circle cx="1100" cy="108" r="5"/>
+      <circle cx="1124" cy="140" r="5"/><circle cx="996" cy="140" r="5"/><circle cx="868" cy="140" r="5"/><circle cx="740" cy="140" r="5"/><circle cx="612" cy="140" r="5"/><circle cx="484" cy="140" r="5"/><circle cx="356" cy="140" r="5"/><circle cx="228" cy="140" r="5"/><circle cx="100" cy="140" r="5"/>
+      <circle cx="76" cy="172" r="5"/><circle cx="204" cy="172" r="5"/><circle cx="332" cy="172" r="5"/><circle cx="460" cy="172" r="5"/><circle cx="588" cy="172" r="5"/><circle cx="716" cy="172" r="5"/><circle cx="844" cy="172" r="5"/><circle cx="972" cy="172" r="5"/><circle cx="1100" cy="172" r="5"/>
+      <circle cx="1124" cy="204" r="5"/><circle cx="996" cy="204" r="5"/><circle cx="868" cy="204" r="5"/><circle cx="740" cy="204" r="5"/><circle cx="612" cy="204" r="5"/><circle cx="484" cy="204" r="5"/><circle cx="356" cy="204" r="5"/><circle cx="228" cy="204" r="5"/><circle cx="100" cy="204" r="5"/>
+    </g>
+
+    <circle cx="0" cy="0" r="11" fill="#0F766E" opacity="0.5">
+      <animateMotion dur="18s" begin="-1.5s" repeatCount="indefinite" rotate="auto"><mpath href="#snake-path"/></animateMotion>
+    </circle>
+    <circle cx="0" cy="0" r="12" fill="#22D3EE" opacity="0.76">
+      <animateMotion dur="18s" begin="-0.75s" repeatCount="indefinite" rotate="auto"><mpath href="#snake-path"/></animateMotion>
+    </circle>
+    <g>
+      <g>
+        <circle cx="0" cy="0" r="14" fill="#F59E0B"/>
+        <circle cx="-4" cy="-3" r="2.2" fill="#020617"/>
+        <circle cx="4" cy="-3" r="2.2" fill="#020617"/>
+      </g>
+      <animateMotion dur="18s" repeatCount="indefinite" rotate="auto"><mpath href="#snake-path"/></animateMotion>
+    </g>
+  </g>
+</svg>
