@@ -1,72 +1,108 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="72" y1="36" x2="1218" y2="342" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#071A26"/>
-      <stop offset="0.55" stop-color="#0B2333"/>
-      <stop offset="1" stop-color="#13354A"/>
+    <linearGradient id="bg" x1="36" y1="24" x2="1224" y2="336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A6B2B3"/>
+      <stop offset="0.52" stop-color="#95A5A8"/>
+      <stop offset="1" stop-color="#87979C"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#2DD4BF"/>
+    <linearGradient id="accent" x1="770" y1="80" x2="1210" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#102738"/>
-      <stop offset="1" stop-color="#17384E"/>
+    <linearGradient id="wire" x1="788" y1="44" x2="1188" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
     </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020617" flood-opacity="0.35"/>
-    </filter>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
     </pattern>
   </defs>
 
   <rect x="0" y="0" width="1280" height="360" rx="28" fill="url(#bg)"/>
   <rect x="0" y="0" width="1280" height="360" rx="28" fill="url(#grid)"/>
 
-  <circle cx="1138" cy="68" r="86" fill="#14B8A6" opacity="0.12"/>
-  <circle cx="1208" cy="256" r="118" fill="#F59E0B" opacity="0.09"/>
-  <circle cx="934" cy="304" r="54" fill="#38BDF8" opacity="0.11"/>
+  <circle cx="1118" cy="78" r="110" fill="#0F172A" opacity="0.08"/>
+  <circle cx="1176" cy="290" r="126" fill="#0F172A" opacity="0.06"/>
+  <circle cx="896" cy="306" r="72" fill="#06B6D4" opacity="0.08"/>
 
-  <rect x="70" y="62" width="118" height="32" rx="16" fill="#0F2D3E"/>
-  <text x="91" y="83" fill="#7DD3FC" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="15" font-weight="700">QA ENGINEER</text>
+  <rect x="60" y="54" width="126" height="36" rx="18" fill="#0F172A"/>
+  <text x="82" y="77" fill="#E2F3F9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">QA ENGINEER</text>
 
-  <text x="70" y="150" fill="white" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="52" font-weight="700">Usama Afzal</text>
-  <text x="70" y="188" fill="#A5F3FC" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="22" font-weight="500">Test Automation • API QA • Mobile &amp; Web Quality</text>
+  <text x="60" y="138" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Usama Afzal</text>
 
-  <text x="70" y="231" fill="#C6D5E3" font-family="Manrope, Segoe UI, sans-serif" font-size="18" font-weight="500">Building reliable quality systems with Appium, Cypress,</text>
-  <text x="70" y="258" fill="#C6D5E3" font-family="Manrope, Segoe UI, sans-serif" font-size="18" font-weight="500">GitHub Actions, Postman, and practical Agile testing workflows.</text>
+  <g fill="#112238" font-family="Segoe UI, Arial, sans-serif" font-size="16.5" font-weight="600">
+    <text x="60" y="182">Building reliable quality systems with more than three years of professional</text>
+    <text x="60" y="205">experience, proficiency in AI-driven test automation, behavior-driven testing,</text>
+    <text x="60" y="228">and advanced test management methodologies. Skilled in applying innovative</text>
+    <text x="60" y="251">techniques and cutting-edge tools within STLC to ensure software quality</text>
+    <text x="60" y="274">and management.</text>
+  </g>
 
-  <rect x="70" y="290" width="116" height="34" rx="17" fill="#0E7490"/>
-  <text x="92" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">Appium</text>
+  <path d="M60 308H404" stroke="#0F172A" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="308" r="5" fill="#0F172A"/>
+  <circle cx="404" cy="308" r="5" fill="#F59E0B"/>
 
-  <rect x="196" y="290" width="118" height="34" rx="17" fill="#14532D"/>
-  <text x="221" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">Cypress</text>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 302C190 282 224 274 270 274" stroke="#0F172A" stroke-opacity="0.18" stroke-width="3"/>
+    <path d="M202 324C232 308 254 300 302 300" stroke="#06B6D4" stroke-opacity="0.36" stroke-width="3"/>
+    <circle cx="270" cy="274" r="6" fill="#F59E0B"/>
+    <circle cx="302" cy="300" r="6" fill="#06B6D4"/>
+  </g>
 
-  <rect x="324" y="290" width="146" height="34" rx="17" fill="#7C2D12"/>
-  <text x="346" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">GitHub Actions</text>
+  <g transform="translate(760 42)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M54 222H398" stroke="url(#wire)" stroke-width="6"/>
+    <path d="M78 182V222" stroke="url(#wire)" stroke-width="6"/>
+    <path d="M364 182V222" stroke="url(#wire)" stroke-width="6"/>
+    <path d="M128 222V120" stroke="url(#wire)" stroke-width="5"/>
+    <path d="M332 222V102" stroke="url(#wire)" stroke-width="5"/>
+    <path d="M236 222V148" stroke="url(#wire)" stroke-width="5"/>
 
-  <rect x="480" y="290" width="124" height="34" rx="17" fill="#0F766E"/>
-  <text x="506" y="312" fill="white" font-family="Manrope, Segoe UI, sans-serif" font-size="14" font-weight="700">Postman</text>
+    <rect x="144" y="96" width="166" height="92" rx="18" stroke="url(#wire)" stroke-width="5"/>
+    <rect x="184" y="118" width="86" height="46" rx="10" stroke="#F59E0B" stroke-width="4"/>
+    <path d="M200 141H254" stroke="#F59E0B" stroke-width="4"/>
+    <path d="M206 152L220 136L234 148L248 130" stroke="#F59E0B" stroke-width="4"/>
 
-  <g filter="url(#shadow)">
-    <rect x="810" y="58" width="396" height="244" rx="26" fill="url(#panel)" stroke="#2DD4BF" stroke-opacity="0.18"/>
-    <rect x="840" y="86" width="190" height="144" rx="18" fill="#0B1E2C" stroke="#1E3A4C"/>
-    <rect x="862" y="108" width="146" height="12" rx="6" fill="#18384D"/>
-    <rect x="862" y="132" width="118" height="12" rx="6" fill="#18384D"/>
-    <rect x="862" y="160" width="90" height="48" rx="14" fill="#0F766E" fill-opacity="0.18" stroke="#2DD4BF" stroke-opacity="0.55"/>
-    <path d="M888 184L901 197L927 170" stroke="#2DD4BF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="110" y="152" width="34" height="28" rx="10" stroke="#F59E0B" stroke-width="4"/>
+    <path d="M110 166H74" stroke="#F59E0B" stroke-width="4"/>
+    <circle cx="64" cy="166" r="7" fill="#F59E0B"/>
 
-    <rect x="1054" y="94" width="110" height="196" rx="22" fill="#0B1E2C" stroke="#2C4A5B"/>
-    <rect x="1069" y="118" width="80" height="12" rx="6" fill="#1C394D"/>
-    <rect x="1069" y="142" width="58" height="12" rx="6" fill="#1C394D"/>
-    <rect x="1069" y="171" width="79" height="66" rx="18" fill="#1D4ED8" fill-opacity="0.18" stroke="#60A5FA" stroke-opacity="0.45"/>
-    <circle cx="1109" cy="204" r="18" fill="#111827" stroke="#93C5FD" stroke-opacity="0.55"/>
-    <path d="M1101 204L1107 210L1118 197" stroke="#7DD3FC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect x="1090" y="256" width="37" height="6" rx="3" fill="#3B5565"/>
+    <rect x="310" y="138" width="36" height="54" rx="12" stroke="#F59E0B" stroke-width="4"/>
+    <path d="M328 138V108" stroke="#F59E0B" stroke-width="4"/>
+    <circle cx="328" cy="96" r="7" fill="#F59E0B"/>
 
-    <path d="M956 208C985 208 998 225 998 243C998 261 1012 276 1038 276" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 8"/>
-    <circle cx="956" cy="208" r="6" fill="#2DD4BF"/>
-    <circle cx="1038" cy="276" r="6" fill="#F59E0B"/>
+    <path d="M208 96V58" stroke="url(#wire)" stroke-width="4"/>
+    <path d="M246 96V38" stroke="url(#wire)" stroke-width="4"/>
+    <path d="M168 96V52" stroke="url(#wire)" stroke-width="4"/>
+    <circle cx="168" cy="42" r="6" fill="#06B6D4"/>
+    <circle cx="208" cy="48" r="6" fill="#06B6D4"/>
+    <circle cx="246" cy="28" r="6" fill="#06B6D4"/>
+
+    <path d="M152 236H356" stroke="#0F172A" stroke-opacity="0.22" stroke-width="18"/>
+    <circle cx="176" cy="236" r="13" stroke="#F59E0B" stroke-width="4"/>
+    <circle cx="332" cy="236" r="13" stroke="#F59E0B" stroke-width="4"/>
+    <circle cx="210" cy="236" r="5" fill="#F59E0B"/>
+    <circle cx="242" cy="236" r="5" fill="#F59E0B"/>
+    <circle cx="274" cy="236" r="5" fill="#F59E0B"/>
+
+    <path d="M366 206H408" stroke="#F59E0B" stroke-width="4"/>
+    <path d="M366 224H422" stroke="#06B6D4" stroke-width="4"/>
+    <path d="M366 242H392" stroke="#F59E0B" stroke-width="4"/>
+    <circle cx="432" cy="224" r="7" fill="#06B6D4"/>
+
+    <path d="M26 54V136" stroke="url(#wire)" stroke-width="4"/>
+    <path d="M26 136L54 164" stroke="url(#wire)" stroke-width="4"/>
+    <circle cx="26" cy="42" r="6" fill="#06B6D4"/>
+    <circle cx="54" cy="164" r="6" fill="#F59E0B"/>
+
+    <path d="M424 42V116" stroke="url(#wire)" stroke-width="4"/>
+    <path d="M424 116L394 146" stroke="url(#wire)" stroke-width="4"/>
+    <circle cx="424" cy="30" r="6" fill="#06B6D4"/>
+    <circle cx="394" cy="146" r="6" fill="#F59E0B"/>
+
+    <path d="M108 64L138 82" stroke="#06B6D4" stroke-width="4"/>
+    <circle cx="98" cy="58" r="6" fill="#06B6D4"/>
+
+    <path d="M362 64L332 82" stroke="#06B6D4" stroke-width="4"/>
+    <circle cx="372" cy="58" r="6" fill="#06B6D4"/>
   </g>
 </svg>
