@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/usama-afzal-sqa-banner.svg?v=20260801" alt="Usama Afzal SQA banner" />
+  <img src="./assets/usama-afzal-sqa-banner-2026.svg" alt="Usama Afzal SQA banner" />
 </p>
 
 <h1 align="center">Usama Afzal</h1>
