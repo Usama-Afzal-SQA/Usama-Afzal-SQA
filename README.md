@@ -1,27 +1,8 @@
 <p align="center">
-  <img src="./assets/usama-afzal-sqa-banner-2026.svg" alt="Usama Afzal SQA banner" />
+  <img src="./assets/usama-afzal-sqa-banner-clean.svg" alt="Usama Afzal SQA banner" />
 </p>
 
 <h1 align="center">Usama Afzal</h1>
-<h3 align="center">SQA Engineer | Quality Systems, Test Automation, and AI-Assisted Delivery</h3>
-
-<p align="center">
-  <a href="https://usama-qa-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-QA%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Usama-Afzal-SQA">
-    <img src="https://img.shields.io/badge/GitHub-Usama--Afzal--SQA-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/usama-afzal-sqa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://linktr.ee/Usama_Afzal_SQA">
-    <img src="https://img.shields.io/badge/Linktree-Usama__Afzal__SQA-22c55e?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-  <a href="mailto:usama5343@gmail.com">
-    <img src="https://img.shields.io/badge/Email-usama5343%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ## Summary
 
@@ -80,36 +61,9 @@ I work across Appium, WebdriverIO, Cypress, Postman API testing, firmware flashi
 
 ## Experience Snapshot
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/goally-logo.png" alt="Goally logo" height="54" />
-      <br />
-      <strong>Goally</strong> <sub>Denver, CO, USA</sub>
-      <br />
-      <em>SQA Engineer</em>
-      <br />
-      <br />
-      Device software testing
-      <br />
-      Native / Hybrid App / Web QA
-      <br />
-      Test Automation
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/lums-logo.png" alt="LUMS logo" height="54" />
-      <br />
-      <strong>LUMS</strong> <sub>Lahore, Pakistan</sub>
-      <br />
-      <em>Software Engineer Intern</em>
-      <br />
-      <br />
-      API integration, auth flows, and frontend support
-      <br />
-      in a hands-on engineering environment.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/experience-snapshot.svg" alt="Experience snapshot with Goally and LUMS in a two-column layout" width="100%" />
+</p>
 
 ## Certifications and Learning
 
@@ -120,13 +74,13 @@ I work across Appium, WebdriverIO, Cypress, Postman API testing, firmware flashi
 - HSK 1 and HSK 2
 - Mandarin learning track
 
-## QA Activity Trail
+## Contribution Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
-    <img alt="Custom GitHub activity snake" src="./github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Usama-Afzal-SQA/Usama-Afzal-SQA/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
