@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="./assets/usama-afzal-sqa-banner-clean.svg" alt="Usama Afzal SQA banner" />
+  <img src="./assets/usama-afzal-sqa-banner-clean.svg" alt="SQA Engineer profile banner" />
 </p>
-
-<h1 align="center">Usama Afzal</h1>
 
 ## Summary
 
-I am Usama Afzal, an SQA Engineer with 3+ years of hands-on experience across web, native, hybrid, and device software testing. My work focuses on building reliable quality systems with structured release validation, AI-assisted automation, deep issue investigation, and practical engineering support when teams need momentum.
+I am an SQA Engineer with 3+ years of hands-on experience across web, native, hybrid, and device software testing. My work focuses on building reliable quality systems with structured release validation, AI-assisted automation, deep issue investigation, and practical engineering support when teams need momentum.
 
 I work across Appium, WebdriverIO, Cypress, Postman API testing, firmware flashing, ROM and GMS validation, syslog tracing, Sentry-led debugging, payload checks, and bug-fix pull request collaboration.
 
@@ -91,13 +89,13 @@ I work across Appium, WebdriverIO, Cypress, Postman API testing, firmware flashi
     <img src="https://img.shields.io/badge/Portfolio-QA%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Usama-Afzal-SQA">
-    <img src="https://img.shields.io/badge/GitHub-Usama--Afzal--SQA-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/usama-afzal-sqa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Usama%20Afzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://linktr.ee/Usama_Afzal_SQA">
-    <img src="https://img.shields.io/badge/Linktree-Usama__Afzal__SQA-22c55e?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-Links-22c55e?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
   <a href="mailto:usama5343@gmail.com">
     <img src="https://img.shields.io/badge/Email-usama5343%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
