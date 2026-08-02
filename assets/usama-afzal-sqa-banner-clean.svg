@@ -24,20 +24,21 @@
   <circle cx="1118" cy="78" r="110" fill="#0F172A" opacity="0.08"/>
   <circle cx="1176" cy="290" r="126" fill="#0F172A" opacity="0.06"/>
   <circle cx="896" cy="306" r="72" fill="#06B6D4" opacity="0.08"/>
+  <rect x="48" y="52" width="638" height="252" rx="34" fill="#FFFFFF" opacity="0.14"/>
+  <path d="M60 78H520" stroke="#FFFFFF" stroke-opacity="0.34" stroke-width="2" stroke-linecap="round"/>
+  <path d="M60 300H404" stroke="#0F172A" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="300" r="5" fill="#0F172A"/>
+  <circle cx="404" cy="300" r="5" fill="#F59E0B"/>
 
-  <text x="60" y="138" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Usama Afzal</text>
+  <text x="60" y="132" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="800">SQA Engineer</text>
 
   <g fill="#112238" font-family="Segoe UI, Arial, sans-serif" font-size="16.5" font-weight="600">
-    <text x="60" y="182">Building reliable quality systems with more than three years of professional</text>
-    <text x="60" y="205">experience, proficiency in AI-driven test automation, behavior-driven testing,</text>
-    <text x="60" y="228">and advanced test management methodologies. Skilled in applying innovative</text>
-    <text x="60" y="251">techniques and cutting-edge tools within STLC to ensure software quality</text>
-    <text x="60" y="274">and management.</text>
+    <text x="60" y="178">Building reliable quality systems with more than three years of professional</text>
+    <text x="60" y="201">experience, proficiency in AI-driven test automation, behavior-driven testing,</text>
+    <text x="60" y="224">and advanced test management methodologies. Skilled in applying innovative</text>
+    <text x="60" y="247">techniques and cutting-edge tools within STLC to ensure software quality</text>
+    <text x="60" y="270">and management.</text>
   </g>
-
-  <path d="M60 308H404" stroke="#0F172A" stroke-opacity="0.22" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="60" cy="308" r="5" fill="#0F172A"/>
-  <circle cx="404" cy="308" r="5" fill="#F59E0B"/>
 
   <g stroke-linecap="round" stroke-linejoin="round">
     <path d="M150 302C190 282 224 274 270 274" stroke="#0F172A" stroke-opacity="0.18" stroke-width="3"/>
