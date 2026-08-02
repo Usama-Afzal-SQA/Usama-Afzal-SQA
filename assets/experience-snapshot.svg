@@ -7,9 +7,9 @@
   <text x="150" y="128" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">SQA Engineer</text>
   <rect x="150" y="142" width="152" height="28" rx="14" fill="#FEF3C7"/>
   <text x="171" y="160" fill="#92400E" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Nov 2022 - Present</text>
-  <text x="44" y="198" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="16">Automation, mobile QA, device validation,</text>
-  <text x="44" y="220" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="16">debugging, and release support across app</text>
-  <text x="44" y="242" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="16">and device workflows.</text>
+  <text x="44" y="198" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="16">Device software testing</text>
+  <text x="44" y="220" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="16">Native/Hybrid App/Web QA</text>
+  <text x="44" y="242" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="16">Test Automation</text>
   <rect x="44" y="214" width="0" height="0" fill="transparent"/>
   <rect x="44" y="0" width="0" height="0" fill="transparent"/>
   <rect x="500" y="20" width="440" height="240" rx="26" fill="#F8FAFC" stroke="#CBD5E1"/>
